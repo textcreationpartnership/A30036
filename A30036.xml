@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quakerism anatomiz'd, by a charge against the Quakers, with a challenge to Richard Ashby, one of their teachers, to come forth in their vindication</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30036</idno>
+            <idno type="STC">Wing B5384</idno>
+            <idno type="STC">ESTC R9143</idno>
+            <idno type="EEBO-CITATION">12924739</idno>
+            <idno type="OCLC">ocm 12924739</idno>
+            <idno type="VID">95480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 732:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quakerism anatomiz'd, by a charge against the Quakers, with a challenge to Richard Ashby, one of their teachers, to come forth in their vindication</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: May 10, 1694. Francis Bugg.</note>
+                  <note>Reproduction of original in Duke Univeristy Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashby, Richard, 1663?-1734.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95480:1"/>
+            <pb n="1" facs="tcp:95480:1" rendition="simple:additions"/>
+            <head>
+               <hi>
+                  <hi>Quakeriſm Anatomiz'd,</hi> by a</hi> Charge <hi>againſt the</hi> Quakers, <hi>with a</hi> Challenge <hi>to</hi> Richard Aſhby, <hi>one of their Teachers, to come forth in their</hi> VINDICATION.</head>
+            <epigraph>
+               <q>The wicked flee when no man purſueth, but the Righteous are as bold as a Lion.</q>
+            </epigraph>
+            <p>AS I was going to <hi>Norwich, April</hi> 1694. ſtaying a little at <hi>Wymondham,</hi> I met with a Paper writ by <hi>R. Aſhby;</hi> wherein he reflects on my Book, <hi>Quakeriſm Withering, and Chriſtianity Reviving,</hi> &amp;c. ſaying, what I write is falſe: And ſeems greatly concerned, That People ſhould like my Book, and glad to ſee the Quakers Errours diſcovered. And thereupon I wrote him a Letter, Dated <hi>April</hi> the 30th, 1694. to meet me the <hi>Wedneſday</hi> fol<g ref="char:EOLhyphen"/>lowing, to agree upon Terms to have a Meeting, to Diſpute the Points in Con<g ref="char:EOLhyphen"/>troverſie: But he not Anſwering the ſame, I ſent him another Letter, Dated <hi>May</hi> the 3d, 1694. a Copy whereof is as followeth, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To <hi>R. Aſhby</hi> of <hi>Thuxton,</hi> Theſe.</head>
+                  <p>FRiend, I have met with your late cautionary Epiſtle and Warning, where<g ref="char:EOLhyphen"/>in you thus write, <hi>viz.</hi> 
+                     <q>To the Inhabitants of <hi>Wymondham,</hi> that have met with <hi>Francis Bugg</hi>'s Book, Entituled, <hi>Quakeriſm Withering,</hi> &amp;c. And I am informed, that ſome of you the Inhabitants of <hi>Wymondham,</hi> are much pleaſed and elevated, <hi>&amp;c.</hi> Now this may certifie you, that all this ſtir that <hi>F. B.</hi> makes, is but a meer Boaſt: For I was at <hi>London</hi> at the ſame time when <hi>F. B.</hi> ſhould, according to his word, have met <hi>G. W.</hi> at <hi>Ben. Antrobus</hi> his Houſe, but did not. And let this be a Warning and Caution to you for time to come, that you lay not hands ſuddenly, <hi>&amp;c.</hi>
+                     </q> I ſay, having ſeen this your Epiſtle and Warning, ſuggeſting, that I ſhould have met <hi>G. W.</hi> at <hi>B. A.</hi>'s Houſe according to my Word, and did not; though he and others waited long for me, <hi>&amp;c.</hi> which is falſe; for I never gave <hi>G. W.</hi> my Word or Promiſe to meet him there, or any where elſe, to Diſpute the Points in Controverſie, un<g ref="char:EOLhyphen"/>leſs that he would firſt engage under his Hand to retract what I proved him guilty of, and the Quakers Erroneous in. See <hi>Quakeriſm Withering,</hi> &amp;c. P. 2, 5, 6, 7, 8. and according to the Terms propoſed therein I ſtill ingage to meet him, or any Quaker in <hi>England.</hi> [And were he not conſcious to himſelf, that both himſelf in particular, and the Quakers in general of <hi>Fox</hi>'s Party were guilty of what I charge them with, no doubt but he would ſubſcribe ſuch an Inſtrument, ſince 'tis conſonant to their own printed Propoſition in the Epiſtle to <hi>Edw. Burrough's Works,</hi> that <hi>Son of Thunder, true Prophet, and faithful Ser<g ref="char:EOLhyphen"/>vant of God,</hi> as <hi>G. W.</hi> and others have ſtyled him in Print.] But ſince you have undertaken to Defend the Quakers, and ſeem troubled that their Errours are laid open, and that the People are pleaſed with my Books, which have been inſtrumental therein: And not only ſo, but ſlily inſinuate, That what I write is falſe. I do thereupon renew my Charge againſt the Principles and Do<g ref="char:EOLhyphen"/>ctrine of the Quakers, and do Challenge you <hi>R. Aſhby</hi> to meet me at the Publick School-houſe in <hi>Wymondham,</hi> on <hi>Monday,</hi> the 4th of <hi>June.</hi> 1694 at
+<pb n="2" facs="tcp:95480:2"/>Ten of the Clock in the Forenoon, where I promiſe (if God permit) to meet you, and before the People offer to prove the following Charge out of your Ap<g ref="char:EOLhyphen"/>proved Books, againſt all your Allegations to the contrary. And if after the ſaid Diſpute you ſhall exhibit a Charge againſt me in Writing under your Hand, giving me the like time to prepare for my Defence, I do promiſe (if God permit) to meet you at the ſame place, that ſo the Inhabitants of <hi>Wymond<g ref="char:EOLhyphen"/>ham</hi> may be more and more convinced of the grand Errors of the <hi>Quakers,</hi> whoſe Doctrine and Principles tend to undermine and overthrow the Chriſtian Religion. The ſaid Charge which I offer to prove, is as followeth, <hi>viz.</hi>
+                  </p>
+                  <p n="1">I. That the Quakers deny Jeſus of <hi>Nazareth,</hi> who was born of the Bleſſed Virgin <hi>Mary,</hi> to be Chriſt, and the Efficient Cauſe of Man's Salvation.</p>
+                  <p n="2">II. That their Books are Blaſphemous, and their Practices Idolatrous.</p>
+                  <p n="3">III. That they deny the Scriptures, by ſpeaking contemptuouſly of them; calling them Duſt, Death, and Serpent's meat, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="4">IV. That they deſpiſe the Ordinances of Jeſus Chriſt, as Baptiſm and the Lord's Supper,</p>
+                  <p n="5">V. That they undervalue the Death and Sufferings of Chriſt.</p>
+                  <p n="6">VI. That they exalt their own Sufferings above the Sufferings of Chriſt, and their own Pamphlets above the Prophets and Apoſtles, as in <hi>Quakeriſm Wither<g ref="char:EOLhyphen"/>ing,</hi> &amp;c. P. 3, 4.</p>
+                  <closer>
+                     <signed>Writ and Subſcribed <hi>per</hi> me <hi>Francis Bugg.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Now leaſt <hi>R. Aſhby</hi> ſhould decline to meet me, but like his Brother <hi>White<g ref="char:EOLhyphen"/>head,</hi> evade and ſhuffle; as I do hereby give publick notice of my Challenge, ſo I think it neceſſary to acquaint the World with their fallacious way of Wri<g ref="char:EOLhyphen"/>ting; inſomuch that 'tis hard to know a <hi>Quaker</hi> by what he writes: For their Books are of two ſorts, of two Stamps, and carry two Faces, and both con<g ref="char:EOLhyphen"/>trary to each other; and yet the Quakers mean all one thing, <hi>viz.</hi> One ſort of Books and Epiſtles to their own Diſciples, to confirm them in Quakeriſm, wrote by the <hi>Perfect Quaker:</hi> The other ſort of Books to the World's People, as they cant it, with ſome ſeeming Truths in them; nay, were they but ſincere, might paſs, wrote by the <hi>Counterfeit Quaker,</hi> whoſe chief Art is to decoy and proſelyte the World; but ſtill he means the ſame aſ<g ref="char:EOLhyphen"/>ſerted by the <hi>Perfect Quaker.</hi> As for inſtance: When <hi>Iſ. Penington</hi> de<g ref="char:EOLhyphen"/>nies Chriſt, and calls him that was born of the Virgin, <hi>A Veil, a Garment, a Veſſel,</hi> affirming they can never call him Chriſt; yet <hi>G. Whitehead</hi> the <hi>Coun<g ref="char:EOLhyphen"/>terfeit Quaker,</hi> in his Book, ſtyl'd, <hi>The Counterfeit Convert,</hi> &amp;c. P. 72. vindicates him, ſaying, <q>And though I have evinced <hi>Iſ. Penington</hi>'s meaning, on his Words reflected on about the Body or Fleſh of Chriſt, it follows not that I make his Expreſſions mine, ſeeing I note them as his: for [ſays <hi>G. White<g ref="char:EOLhyphen"/>head</hi>] I may ſee cauſe otherwiſe to word the matter, and yet our Intentions be the ſame, <hi>&amp;c.</hi>
+               </q> Thus you ſee he is aſhamed to own <hi>Iſ. P.</hi>'s Words as his, yet hath ſhewed you his meaning, if you will believe him: And he juſtifies his not owning his Words, <hi>for that he had noted them to be his;</hi> nay, tells you he may <hi>ſee cauſe</hi> otherwiſe to word the matter, and yet their Intentions the ſame. Who then, I marvel, can know a Quaker, if they can thus equivocate? Is not this <hi>Jeſuitiſm</hi> with a witneſs? Or <hi>Arius</hi> riſen again under a new Form and Figure, to deceive the World with a two-fold meaning? And yet behold <hi>G. W.</hi>'s Partiality, who in <hi>their Vindication</hi> charge me with <hi>John Anſloe</hi>'s Query
+<pb n="3" facs="tcp:95480:2" rendition="simple:additions"/>to <hi>Sam. Cater</hi> as mine, though ſufficiently noted by me to be his, and not mine, which I have refuted beyond his gloſſing in <hi>Quakeriſm Withering,</hi> P. 65. Well, but let us have a few Examples of theſe two fac'd <hi>Quakers,</hi> the <hi>Perfect Quaker</hi> and the <hi>Counterfeit Quaker,</hi> who, however they differ in wording their matter, and expreſſing themſelves; yea, inſomuch as that the one is aſhamed to own the Words and Expreſſions of the other; yet as <hi>G. W.</hi> and that too truly, they mean all the ſame thing; they mean what the <hi>Perfect Quaker</hi> ſays, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Perfect Quaker.</cell>
+                     <cell role="label">The Counterfeit Quaker.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Smith</hi>'s <hi>Primer in Octavo,</hi> P. 8. How may I know when Chriſt is truly Preached?</cell>
+                     <cell>
+                        <hi>Smith's Works in Folio,</hi> Leaf 4th. Why, they that are falſe preach Chriſt without <hi>Only,</hi> and bid People be<g ref="char:EOLhyphen"/>lieve in him as he is in Heaven above, in oppoſition to his being within. But they th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> are true Miniſters, they preach Chriſt within, and direct People to wait to ſeel him in themſelves, and ſo to believe in him as he makes himſelf manifeſt in them.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anſw.</hi> They that are falſe (Mini<g ref="char:EOLhyphen"/>ſters) preach Chriſt without, and bid People believe in him as he is in Hea<g ref="char:EOLhyphen"/>ven above: But they that are Chriſt's Miniſters preach Chriſt within.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>OBSERVATION.</p>
+            <p>Behold you the Inhabitants of <hi>Wymondham,</hi> here is one Book Printed and Re-printed; the firſt for <hi>W. Smith,</hi> when living, in <hi>Oclavo,</hi> to teach their Children, and inſtruct them in the Principles <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f perfect <hi>Quakeriſm.</hi> And by this Doctrine all ſuch as preach Chriſt without, and bid People believe in him as he is in Heaven above, at the Right Hand of God, according to the Chriſtian Creed, are Falſe Miniſters; and as ſuch they have cenſured them to be Witches, Devils, Conjurers, Thieves, Antichriſts, Gormandizing Prieſts, the very Bane of Soul and Body of the Univerſe. The other Impreſſi<g ref="char:EOLhyphen"/>on [when <hi>W. Smith</hi> was dead] in <hi>Folio,</hi> to go abroad in the Nations to de<g ref="char:EOLhyphen"/>ceive. And here <hi>W. Smith</hi>'s ſurviving Brethren, the <hi>Counterfeit Qua<g ref="char:EOLhyphen"/>kers,</hi> as <hi>G. W.</hi> ſays, <hi>ſaw cauſe otherwiſe to word the matter, and yet their In<g ref="char:EOLhyphen"/>tentions the ſame.</hi> See his <hi>Count. Conv.</hi> p. 72.</p>
+            <p>And moreover, leſt my preſent Antagoniſt <hi>Rich. Aſhby</hi> ſays, that I write falſe, and that there is no ſuch two-fac'd doings, nor ſuch Jeſuitical Juggles amongſt them, I will point him to <hi>G. W.</hi>'s Sheet, ſtyl'd, <hi>The Quakers Vindication,</hi> p. 1. Col. 2. where he confeſſes in theſe words, <hi>viz.</hi> 
+               <q>We confeſs there is one Edition in <hi>Octavo</hi> reads it as <hi>Fr. Bugg</hi> quotes it; but the other Edition in <hi>Folio</hi> the Pa<g ref="char:EOLhyphen"/>ragraph runs thus, <hi>viz.</hi>
+               </q> as above recited under the <hi>Counterfeit Quaker.</hi> And ſo much for that Juggle.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Perfect Quaker.</cell>
+                     <cell role="label">The Counterfeit Quaker.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Queſt. to Proff.</hi> p. 33. Now the Scriptures do as expreſly diſtinguiſh be<g ref="char:EOLhyphen"/>tween Chriſt and the Garment which he wore, between <hi>him</hi> that came and the <hi>Body</hi> in which <hi>he</hi> came, between the <hi>Subſtance</hi> which was vailed, and the <hi>
+                           <g ref="char:V">Ʋ</g>eil</hi> which <hi>veiled</hi> it; there
+<pb n="4" facs="tcp:95480:3"/>was plainly <hi>he,</hi> and the Body in which <hi>he</hi> came; there was the outward <hi>
+                           <g ref="char:V">Ʋ</g>eſſel</hi> and the inward <hi>Life;</hi> this we certainly know, and can <hi>never</hi> call the Bodily Garment <hi>Chriſt.</hi>
+                     </cell>
+                     <cell>
+                        <pb n="3" facs="tcp:95480:2"/>
+                        <hi>The Quak. Vind.</hi> p. 4. We ſincerely believe and confeſs, that Jeſus of <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> who was born of the Virgin <hi>Mary,</hi> is the true Meſſiah, the very Chriſt, the Son of the Living God.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="4" facs="tcp:95480:3"/>
+            <p>OBSERVATION.</p>
+            <p>Reader, here you ſee plainly, that <hi>Penington,</hi> writing in the Name of the <hi>Quakers,</hi> calls the bleſſed <hi>Jeſus</hi> a Veil, a Garment, a Veſſel, which they can <hi>never</hi> call Chriſt; yet you ſee he was not infallible; for <hi>Whitehead</hi> doth now ſee cauſe otherwiſe to word the matter, as under the <hi>Counterfeit Quaker,</hi> where he, and divers others, confeſs plain enough that they ſincerely believe and confeſs that Jeſus of <hi>Nazareth,</hi> who was born of the <hi>Virgin,</hi> is the very Chriſt of <hi>God;</hi> yea, this Body, this Garment, this Veſſel, which was born of the <hi>Virgin.</hi> This they confeſs too: But how? Becauſe <hi>G. W. ſees</hi> cauſe to <hi>word</hi> the matter <hi>ſo,</hi> judging it high time, or down goes <hi>Quakeriſm.</hi> Not but that he means as <hi>Penington,</hi> and the <hi>Perfect Quaker</hi> means: For if he did not, at the ſame time they make this new Confeſſion, they would condemn and cenſure the <hi>Perfect Quakers</hi> Heretical Doctrine, which ſays, they can never call him Chriſt, but a Garment, <hi>&amp;c.</hi> as if the Prophets foretold that a <hi>Virgin</hi> ſhould conceive, and bring forth a <hi>Garment, &amp;c.</hi> And for more of this, ſee my Book, <hi>New Rome un<g ref="char:EOLhyphen"/>unmask'd,</hi> &amp;c. <hi>New Rome Arraing'd</hi> &amp;c. <hi>Quakeriſm Withering,</hi> &amp;c. where I have at large unriddled their unc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch'd Doctrine, and Erroneous Principles.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Perfect Quaker.</cell>
+                     <cell role="label">The Counterfeit Quaker.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>News coming up,</hi> &amp;c. p. 4. Their Original is carnal, and their Commu<g ref="char:EOLhyphen"/>nion is carnal, a little Bread and Wine: ſo Duſt is the Serpents meat; their Ori<g ref="char:EOLhyphen"/>ginal is but Duſt, which is but the Let<g ref="char:EOLhyphen"/>ter, which is <hi>Death;</hi> ſo the Serpent feeds upon Duſt, and their Goſpel is Duſt, <hi>Matthew, Mark, Luke</hi> and <hi>John,</hi> which is the Letter.</cell>
+                     <cell>
+                        <hi>The Qua Vind. p.</hi> 4. We confeſs that the Holy Scriptures of the Old and New Teſtament are of Divine Autho<g ref="char:EOLhyphen"/>rity, as being given by Divine Inſpira<g ref="char:EOLhyphen"/>tion of God.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David's Enemies,</hi> &amp;c. by <hi>G. W.</hi> and his Brother <hi>Atkinſon,</hi> p. 7. The Mini<g ref="char:EOLhyphen"/>ſtry (meaning the Miniſter) is in the Letter which killeth.</cell>
+                     <cell>
+                        <hi>The Count. Conv.</hi> p. 26. That we prefer the Holy Scriptures before all the Books extant in the World.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>OBSERVATION.</p>
+            <p>For more of this ſee my Sheet to the <hi>Parliament,</hi> and my former Books; yet you ſee that <hi>George Whitehead</hi> ſees cauſe ſo to word the matter, as that now the Counterfeit Quaker confeſſes, that the Scripture is of Divine Authority, and giv<g ref="char:EOLhyphen"/>en by Divine Inſpiration, and value it beyond all the Books extant in the World. Not but that he and the <hi>Perfect Quaker</hi> mean and intend all one thing, <hi>viz.</hi> That the Scriptures are <hi>Death, Duſt, Serpent's Meat,</hi> and that ſuch as preach out of them are <hi>Conjurers;</hi> that 'tis queſtionable whether <hi>Moſes</hi> or <hi>Hermes</hi> was the Au<g ref="char:EOLhyphen"/>thor of the firſt Five Books of <hi>Moſes,</hi> or whether either or neither, as in my for<g ref="char:EOLhyphen"/>mer Books I have at large ſhewed. And until the <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unterfeit Quaker</hi> do con<g ref="char:EOLhyphen"/>demn the contemptuous Sayings of the <hi>Perfect Quaker,</hi> there is no ground to be<g ref="char:EOLhyphen"/>lieve him ſincere in theſe new-moulded Confeſions, which G. <hi>Whitehead</hi> and
+<pb n="5" facs="tcp:95480:3"/>his Abetters make to ſerve a turn, who now ſee cauſe thus to word their mat<g ref="char:EOLhyphen"/>ter, whilſt he tells you, they intend the ſame, <hi>viz.</hi> They ſtill mean, that <hi>Mat<g ref="char:EOLhyphen"/>thew, Mark, Luke</hi> and <hi>John</hi> is Duſt, Death, and Serpent's Meat; that 'tis Con<g ref="char:EOLhyphen"/>juration to preach out of them, and dangerous to read them. Read their Books, <hi>Truth's Defence,</hi> &amp;c. <hi>Saul's Errand,</hi> &amp;c. <hi>David's Enemies diſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v.</hi> &amp;c. <hi>Several Petitions Anſwered,</hi> &amp;c. <hi>A Three-fold Eſtate of Antichriſt,</hi> &amp;c. I ſay, read theſe their Books, and their <hi>Count. Conv.</hi> p. 72. where <hi>G Whitehead</hi> ſays, <hi>He may ſee cauſe otherwiſe to word the matter, and yet intend the ſame thing.</hi> And then judge Oh ye the Inhabitants of <hi>Wymondham,</hi> and all <hi>Chriſtendom,</hi> whether we have any ground to believe there is any Sincerity in theſe new-moulded Confeſſions, until they cenſure and condemn their old Heretical Books and Pamphlets, which they ſay are given forth from the Eternal Spirit of GOD; and boldly affirm, we may as well burn the Bible, as their Writings, Papers and Queries. See <hi>Truth's Defence,</hi> p. 2. 102.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Perfect Quaker.</cell>
+                     <cell role="label">The Counterfeit Quaker.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>News coming up,</hi> &amp;c, p. 18.20. Dread<g ref="char:EOLhyphen"/>ful and powerful is the Lord, who is coming in his Power to execute true Judgment upon all you Judges, and to change all your Laws, ye Kings—Sing all ye Saints, and rejoice; clap your hands, and be glad; for the Lord Je<g ref="char:EOLhyphen"/>hovah reigns; and the Law ſhall be ta<g ref="char:EOLhyphen"/>ken from the pretended Rulers, Judges, Juſtices, Lawyers and Conſtables: All this <hi>Tree</hi> muſt be <hi>cut down,</hi> and Jeſus Chriſt <hi>(that is in us)</hi> will reign alone.</cell>
+                     <cell>
+                        <hi>The Q. Vind.</hi> p. 4. And that Magi<g ref="char:EOLhyphen"/>ſtrates or Civil Government is God's Ordinance for the puniſhment of Evil<g ref="char:EOLhyphen"/>doers, and praiſe of them that do well.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>OBSERVATION.</p>
+            <p>Reader, here is a little hint of their Antimagiſtratical Principles; and when you compare their Practice of Non-ſubmiſſion to the Laws of the Land, which require payment of Tythes, which they ſay, whoever do, bear about them the Mark of Antichriſt; and which require payment to the Church-Rates or Lays, which they throw off as a Yoke of Bondage; and their obſerving the Publick Faſt, when one is at Plow, another at Cart, others in their Shops with their Windows open in Publick Teſtimony againſt both the Command of the Magiſtrate, and Formality of the Faſt; only they tell you, as in their Vindication, <hi>P.</hi> 3. <hi>For the Intent, Subſtance, and End of a True Faſt—This we are frequently mindful of,</hi> &amp;c. But how? Why, they think of it when at their Employment, and at their Meetings on contrary days: I ſay, when theſe, and a hundred things of like nature are conſidered, together with <hi>G. W.</hi> the <hi>Counterfeit Quaker</hi>'s ſeeing cauſe (as he ſays) otherwiſe to word the matter, and yet intend the ſame thing. This is a plain Diſcovery, that they account Magi<g ref="char:EOLhyphen"/>ſtracy a cumberſom <hi>Tree</hi> that muſt be cut down with all its knotty Branches, as <hi>Rulers, Iudges, Iuſtices, Law<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs</hi> and <hi>Conſtables;</hi> and this ſhews them as good Friends to the State as to the Church, only for the preſent they ſee cauſe otherwiſe to word the matter; though like <hi>Arius,</hi> they ſtill mean and intend the ſame thing. However they, as yet, neither ſing nor
+<pb n="6" facs="tcp:95480:4"/>clap their Hands, the Tree is ſtill ſtanding; neither do they clap their Hands for Joy; for if they ſhould, then might all true Proteſtants wring their hands, mourn and lament, they would ſoon ſee all things turned upſide down. For Inſtance, Down with the Scriptures, and up with their Pamphlets; down with the Miniſters and Diſpencers of the Goſpel, as Witches, Devils, Robbers, Anti<g ref="char:EOLhyphen"/>chriſts, Gormandizing Prieſts, <hi>&amp;c.</hi> and up with their Impoſtors, Deceivers, and Seducing Teachers; down with Baptiſm and the Lord's Supper, Inſtituted by Chriſt, and practiſed by his Apoſtles and Martyrs, and all true Chriſtian Churches, and up with their <hi>Womens Meetings,</hi> ordained by <hi>G. F.</hi> down with the Lord's Prayer, the Ten Commandments, the Apoſtles Creed, and all that bear the Face of true Chriſtianity, and up with their Silent Meetings, thoſe Nurſeries of Ig<g ref="char:EOLhyphen"/>norance, or Silent Univerſities; A woful day for Chriſtendom would this be; which God of his mercy prevent.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Perfect Quaker.</cell>
+                     <cell role="label">The Counterfeit Quaker.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fox</hi>'s <hi>Miſt.</hi> p. 77. And as for any being moved of the Lord to take away your [<hi>i. e.</hi> the Prieſts] Hour glaſs from you, by the Eternal Power it is owned. <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>
+                        <hi>See the Paper againſt</hi> J. P. <hi>Aug.</hi> 10. 1670. And we alſo teſtifie, that if any perſon whatſoever ſhall act or ſpeak any thing that is evil, under pretence of a motion from the Spirit of God, we utterly deny that motion to be of God.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>OBSERVATION.</p>
+            <p>Oh ye People of <hi>Wymondham,</hi> behold and conſider of the pernicious Principles and dangerous Doctrine of the <hi>Perfect Quaker!</hi> 1. Charging all ſuch as preach Chriſt without, and bid People believe in him as he is in Heaven above, to be Falſe Miniſters; and as ſuch call them Witches, Devils, Thieves, Robbers, Wolves, Antichriſts, Hell-hounds, ſeeking after their Prey like the mouth of Hell, Gormandizing Prieſts, the Bane of Soul and Body of the Univerſe. 2. That they deny Jeſus of <hi>Nazareth,</hi> who was born of the Virgin, to be Chriſt. 3. How they run down Magiſtracy as a Cumberſom Tree; and the reſult was, (as by their Doctrine appears) that under colour of a motion from the Lord they might lay waſte <hi>meum</hi> and <hi>tuum;</hi> and with theſe, and many other horrible Principles they preſt into the World in the Year 1650. as afterwards, and God aſſiſting and giving me length of days, I may further make appear. But when this De<g ref="char:EOLhyphen"/>fective Coin would not paſs for True Metal, then the <hi>Counterfeit Quaker</hi> he gets up, and appears in the Perſon of <hi>G. W.</hi> and ſome few others, and they tell you, <hi>they may ſee cauſe otherwiſe to word the matter,</hi> but yet mean or intend the ſame thing. All which conſidered, I dare appeal to the Inhabitants of <hi>Wymondham,</hi> yea, to all Chriſtendom, Whether any Credit ought to be given to their new-moulded, new-coined and counterfeit Confeſſions, until they have firſt condem<g ref="char:EOLhyphen"/>ned by Publick Cenſure their old Heretical Principles, which tend to overthrow the Chriſtian Faith.</p>
+            <p>And whereas <hi>G. W.</hi> in his <hi>Count. Conv. Epiſt.</hi> ſays, <q>I do hereby ſincerely declare, that 'tis not for Controverſie ſake that I am ſo much engaged there<g ref="char:EOLhyphen"/>in; nor am I the beginner of theſe Controverſies, being wholly Defenſive, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Although I am not minded to Reply to his Book at preſent, for as much as I find that he hath taken notice but of part of mine, Entituled, <hi>Quakeriſm Wi<g ref="char:EOLhyphen"/>thering, &amp;c.</hi> and what he has, does rather confirm what I have ſaid, than
+<pb n="7" facs="tcp:95480:4"/>otherwiſe; yet I am willing to let <hi>Richard Aſhby,</hi> my preſent Antagoniſt, know, that his Brother <hi>Whitehead</hi> is falſe in this alſo, which at the Diſpute I ſhall make appear: For he writ againſt <hi>Epiſcopalians, Presbyterians, Independents</hi> and <hi>Baptiſts,</hi> before ever they wrote againſt him; and ever ſince has been ſuch a contentious Scribler, that he has wrote Ten Books againſt others, to One Book againſt him, of any one Man's Writing: And in Nine Months time he wrote Three Books againſt me, to one of mine againſt the <hi>Quakers;</hi> and two of them without any freſh occaſion given him: With what Face then can this impudent Juggler appear then in Print, to render himſelf ſuch a Scandal to his own Fraternity? I would have ſaid Chriſtianity, but he does not deſerve to come ſo near it; though he, and his Brethren the <hi>Counterfeit Quakers,</hi> have ſo ordered the matter, as that by their black Art of railing on the Publick Mini<g ref="char:EOLhyphen"/>ſtry, Contempt of Scripture, deſpiſing the Ordinances of Jeſus Chriſt, and the like Antichriſtian Principles, they have made ſuch Rents and Diviſions in Church and State, as will take much time to repair: Though I do verily believe, Quakeriſm hath ſuch a Sandy Foundation, that it cannot ſtand long, but in due time will fall, die and wither away: And <hi>G. W.</hi>'s Practice in writing to Mr. <hi>Smithies,</hi> Mr. <hi>Archer,</hi> and others, to ſtop me, is a ſign to me, that he be<g ref="char:EOLhyphen"/>gins to fear it. As for my Dedications, I never yet met with any Reproof; but my Books have met with kind Acceptation. I do not expect that any Man ſhould ſo concern himſelf, as to juſtifie every particular Paſſage; that's moſt pro<g ref="char:EOLhyphen"/>perly my own buſineſs; and 'twas my Perſwaſion, that what I wrote was true; which made me ſubmit the ſame to my Lord Biſhop, and I ſtill abide by it. But for <hi>G. W.</hi> thus to wait upon, ſeek to, and beg the Favour of the Clergy to ſtop me, is a ſign that he fears their Building is tottering, and that his Cauſe is at a low Ebb. What! Seek to the Contemptible Clergy! Such as you ac<g ref="char:EOLhyphen"/>count Beaſts, Dogs. Wolves, Devils, Thieves, Robbers, Conjurers, Blood<g ref="char:EOLhyphen"/>hounds, Gormandizing Prieſts, the Bane of Nations, bred up at <hi>Oxford</hi> and <hi>Cambridge,</hi> a Nurſery for <hi>Baal</hi>'s Prieſts, crying Woe and Miſery to the Parlia<g ref="char:EOLhyphen"/>ment who uphold them. And what! Do you now ſeek to theſe deſpiſed and contemptible Creatures in your Eyes to ſtop me? Do you think them ſo tame and ſo gentle, as to aſſiſt you, who have been undermining them and their Re<g ref="char:EOLhyphen"/>ligion this forty or fifty Years? Oh! miſtake not your ſelves, but be hum<g ref="char:EOLhyphen"/>ble, and retract your Errors, and that is your way to find Mercy with God, and Forbearance with Men: And this at preſent I am willing to preſent to my preſent Oppoſer <hi>R. Aſhby,</hi> aſſuring him, That as I never refuſed to meet his Bro<g ref="char:EOLhyphen"/>ther <hi>Whitehead</hi> when I promiſed, nor to diſpute the Points in Controverſie, on condition that he would have ingaged to retract what I proved on him and his Abetters falſe and erroneous, ſo I do now aſſure <hi>R. Aſhby,</hi> if GOD permit me Life and Health, not to refuſe to meet him at the time and place appointed.</p>
+            <closer>
+               <signed>Fra. Bugg.</signed>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 8. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>G. W.</salute>
+            </opener>
+            <p>SInce I ſent up the foregoing to the Preſs. on the ſecond reading your Epiſtle to your <hi>Count. Conv. &amp;c.</hi> I perceive how uneaſie you are, and how ſmooth you appear, as in your Letters to Mr. <hi>Smithies</hi> and Mr. <hi>Archer;</hi> and by the tenure thereof methinks I hear you ſay, Good Gentlemen, be ſo kind to us the diſtreſſed and perplexed <hi>Quakers,</hi>
+               <pb n="8" facs="tcp:95480:5"/>us to ſtop <hi>F. Bugg</hi> from writing againſt our Errors; for if you cannot perſwade him, we know of none that can, he does ſo ſtrip us naked, lay us bare, and ſo ef<g ref="char:EOLhyphen"/>fectually unmask us, and take off our Vizard, that we cannot walk in Maſquerade, or two Faces in one Hood, but we are ſeen and diſcovered: And this we, nor our Elder Siſter <hi>(i. e. Rome)</hi> could never abide. Indeed we cannot deny but we Dedicated our Books to K. <hi>Charles</hi> II. and his Council, and to all Rulers in the Chriſtian World, which we never ſaw nor ſpoke to, much leſs acquainted them therewith: nay, ſome<g ref="char:EOLhyphen"/>times to our Dear Friend <hi>O. Cromwel,</hi> calling him Dear Friend, Noble <hi>Oliver,</hi> &amp;c. ſee our Books <hi>Ruſticus,</hi> &amp;c. <hi>E. B.'s Work,</hi> &amp;c. 702, 846. and the <hi>Quaker <g ref="char:V">Ʋ</g>nmaskt,</hi> wherein we not only call'd and compar'd the Publick Miniſters to Serpents, Vipers, grinning Dogs, <hi>&amp;c.</hi> but boldly told the King and Parliament what they might do, and what they might not do; how far their Power reached, and the utmoſt Confines of it; and that if they went contrary to our Infallible Directions, all their Proceedings were falſe and unjuſt, <hi>&amp;c.</hi> and we find that <hi>Fr. Bugg</hi> is diſcovering all our Intreigues, anad filling the ſame Cup to us by a juſt retalliation: Inſomuch, as that the Pit [which we have been digging for others this forty Years, by our ſupplanting and undermining the Chriſtian Religion and Proteſtant Intereſt, rendring both Biſhops and Clergy, Magiſtrates and People ſo ridiculous and contemptible, as not to underſtand <hi>tu</hi> and <hi>vos,</hi> or what a <hi>Genitive Caſe</hi> is, as by our Battledoor and Primer is manifeſt, pretended to be put forth by our Elder Brother and great Apoſtle <hi>G. Fox,</hi> who was but a poor Journeyman Shoe<g ref="char:EOLhyphen"/>maker] we are now juſtly fallen into; and now we ſee cauſe otherwiſe to word our matter, and not to behave our ſelves ſo ſawelly as we have done, when we call'd the National Miniſtry, Thieves, Robbers, Witches, Devils, greedy Dogs, Blood-hounds, <hi>Baal</hi>'s Prieſts, Gormandizing Prieſts, <hi>&amp;c.</hi> and the Parliament that upheld them, the Beaſt which carries the Whore; yet notwithſtanding all that, thoſe Books being then wrote by and from the Eternal Spirit, we cannot retract them; and tho' we other<g ref="char:EOLhyphen"/>wiſe word the matter now, yet we Intend the ſame, are of the ſame Judgment, yet we muſt needs beg your Aſſiſtance to ſtop <hi>F. B.</hi> for he does ſo ſtrip us and whip us, he does ſo unmask, unvail and diſcover us, that all People in a little time will ſee us, and loath us, and caſt us out of their Eſteem, as our elder Siſter is; and 'twas by the like Treatment ſhe met with from her Apoſtate Adverſaries, <hi>Martin Luther,</hi> and others.</p>
+            <p>Come, <hi>G.W.</hi> have not I rightly interpreted the Purport of your Letters to Mr. <hi>Archer</hi> and Mr. <hi>Smithies,</hi> and your fawning and flattering Deportment to the Bp. o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Glouceſter;</hi> if not, tell me in your next; for I deſire none to ſtop you; for the more you write, the more your Hypocriſie and Deceit is manifeſt, and your Errours diſcovered, <hi>&amp;c.</hi> Well, <hi>G. W.</hi> let me in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Words anſwer the Purport of your two large Letters afore<g ref="char:EOLhyphen"/>ſaid, <hi>viz.</hi> It is well known to ſome of you, how loath I have been to expoſe you; how I have gone alone to your Meetings, and told you, that if any Four, Six or Ten of the ableſt of your Teachers would come forth and give me a Meeting, according to your printed Propoſals, <hi>Epiſt. to E. Burrough's Works,</hi> viz. To juſtifie what in any tolerable ſence might be warranted by the plain Text of Scripture, and what could not be ſo juſtified (which was written in your Books) you might cenſure and con<g ref="char:EOLhyphen"/>demn. Upon this, for the ſake of many amongſt you, that are (as I once was) miſlead, I ſhould never have expoſed you, tho' all the Clergy in <hi>England</hi> had requeſted it at my hand: But as they never put me upon writing againſt you; ſo I can aſſure you, they are far enough from ſtopping me; therefore you muſt get other Advocates than ſuch, who have given me Thanks for my Labour and Service done to the Chriſtian Religion and Proteſtant Profeſſion: Neither did Col. <hi>Goldwel</hi> ever reprove me, but always ap<g ref="char:EOLhyphen"/>proved of the Subſtance of what I wrote; and approved of my delivering the Sheet to the Parliament, which was kindly accepted by the Members; and do believe it was uſeful to them, who were not ſo well acquainted with your juggling Tricks, and deceit<g ref="char:EOLhyphen"/>ful Painting and Gloſſes as I was, who am your Friend, tho' I tell you the Truth.</p>
+            <closer>
+               <signed>Francis Bugg.</signed>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 10. 1694.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95480:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
